@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "114643801690",
+    "project_id": "tbdetector-acf9c",
+    "storage_bucket": "tbdetector-acf9c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114643801690:android:05a8f0574381d1483eea63",
+        "android_client_info": {
+          "package_name": "com.example.detect_tb_with_ground_truth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "114643801690-ufnkd1vpqat2092ii0r7git0hpcvi56t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.detect_tb_with_ground_truth",
+            "certificate_hash": "e9ad0474774f7f2899caa925b0c7984a1169d7c5"
+          }
+        },
+        {
+          "client_id": "114643801690-9vr0isvr6t5f6rh5ortpu2onpgbk8318.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMxwIfeueU7hW2H6rKjat0O5s4ND3UNfQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "114643801690-5v0b0ieui0riqdrn87oegqrls1kfvr00.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
